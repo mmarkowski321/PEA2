@@ -1,0 +1,5 @@
+matrix_6x6.atsp
+matrix_8x8.atsp
+matrix_11x11.atsp
+3
+100
